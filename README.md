@@ -65,7 +65,7 @@
     </tr>
     <tr>
         <td>FISI1</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436429">Physics I</a></td>
+        <td><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459467">Physics I</a></td>
         <td style="text-align:center"><a href="https://github.com/pedronunomacedo/FISI1-Year1Semester2/tree/main/Fichas">✔️</a></td>
         <td style="text-align:center">➖</td>
         <td style="text-align:center"><a href="https://github.com/pedronunomacedo/FISI1-Year1Semester2">✔️</a></td>
