@@ -5,7 +5,7 @@
         <td rowspan="2"></td>
         <th style="text-align:center" rowspan="2">Acronym</th>
         <th style="text-align:center" rowspan="2">Name</th>
-        <th style="text-align:center" colspan="3">All</th>
+        <th style="text-align:center" colspan="3">Repository</th>
     </tr>
     <tr>
         <th style="text-align:center">Exercises</th>
@@ -93,44 +93,46 @@
     </tr>
     <tr>
         <th rowspan="6" class="rotate"><div>2nd Year, 1st Sem.</div></th>
-        <td>TCOM</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436437">Computing Theory</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-tcom-ex">✔️</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-    </tr>
-    <tr>
         <td>AED</td>
-        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459471">Algorithms and Data Structures</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-mnum-ex">✔️</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484404">Algorithms and Data Structures</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/ALGA-Year2Semester2/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center">➖</td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/ALGA-Year2Semester2">✔️</a></td>
     </tr>
     <tr>
-        <td>FIS2</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436434">Physics II</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-fis2-form">✔️</a></td>
+        <td>DB</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484405">Databases</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/AMAT-Year2Semester2/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center">➖</td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/AMAT-Year2Semester2">✔️</a></td>
     </tr>
     <tr>
-        <td>BD</td>
-        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459477">Databases</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-aeda-ex">✔️</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-aeda-proj">✔️</a></td>
-        <td style="text-align:center"></td>
+        <td>FISI2</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484406">Physics II</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/AOCO-Year1Semester1/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center">➖</td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/AOCO-Year1Semester1">✔️</a></td>
     </tr>
     <tr>
         <td>LDTS</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484407">Software Design and Testing Laboratory</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-lcom">✔️</a></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/FPRO-Year1Semester1/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center">➖</td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/FPRO-Year1Semester1">✔️</a></td>
+    </tr>
+    <tr>
+        <td>TC</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484423">Theory of Computation</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/MDIS-Year1Semester1/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center">➖</td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/MDIS-Year1Semester1">✔️</a></td>
     </tr>
     <tr>
         <td>IADE</td>
-        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=489303">Introduction to data analysis in Excel</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-lcom">✔️</a></td>
-        <td style="text-align:center"></td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=489303">Introduction to data analysis in Excel</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/Project_FEUP-Year1Semester1/tree/main/Testes">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/Project_FEUP-Year1Semester1/tree/main/Trabalho">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/Project_FEUP-Year1Semester1">✔️</a></td>
     </tr>
     <tr>
         <th rowspan="5" class="rotate"><div>2nd Year, 2nd Sem.</div></th>
