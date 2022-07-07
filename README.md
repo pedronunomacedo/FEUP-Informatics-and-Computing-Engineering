@@ -5,12 +5,12 @@
         <td rowspan="2"></td>
         <th style="text-align:center" rowspan="2">Acronym</th>
         <th style="text-align:center" rowspan="2">Name</th>
-        <th style="text-align:center" colspan="3">Repository</th>
+        <th style="text-align:center" colspan="3">All</th>
     </tr>
     <tr>
         <th style="text-align:center">Exercises</th>
         <th style="text-align:center">Projects</th>
-        <th style="text-align:center">Repository</th>
+        <th style="text-align:center">All</th>
     </tr>
     <tr>
         <th rowspan="6" class="rotate"><div>1st Year, 1st Sem.</div></th>
