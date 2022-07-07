@@ -15,14 +15,14 @@
     <tr>
         <th rowspan="6" class="rotate"><div>1st Year, 1st Sem.</div></th>
         <td>ALGE</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436423">Algebra</a></td>
+        <td><a href="https://github.com/pedronunomacedo/ALGA-Year2Semester2">Linear Algebra and Analytic Geometry</a></td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
         <td>AMAT</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436424">Mathematical Analysis</a></td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436424">Mathematical Analysis I</a></td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
