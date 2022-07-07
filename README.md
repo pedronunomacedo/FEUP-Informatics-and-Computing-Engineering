@@ -100,8 +100,8 @@
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td>MNUM</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436436">Numerical Methods</a></td>
+        <td>AED</td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459471">Numerical Methods</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-mnum-ex">✔️</a></td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
@@ -114,8 +114,8 @@
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-fis2-form">✔️</a></td>
     </tr>
     <tr>
-        <td>AEDA</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436433">Algorithms and Data Structures</a></td>
+        <td>BD</td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459477">Algorithms and Data Structures</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-aeda-ex">✔️</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-aeda-proj">✔️</a></td>
         <td style="text-align:center"></td>
