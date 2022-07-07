@@ -87,9 +87,9 @@
     <tr>
         <td>PROG</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436430">Programming</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-prog-ex">✔️</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-prog-proj">✔️</a></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/PROG-Year1Semester2/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/PROG-Year1Semester2/tree/main/Projetos">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/PROG-Year1Semester2">✔️</a></td>
     </tr>
     <tr>
         <th rowspan="6" class="rotate"><div>2nd Year, 1st Sem.</div></th>
