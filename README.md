@@ -30,9 +30,9 @@
     <tr>
         <td>AOCO</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436427">Computer Architecture and Organization</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-aoco-ex">✔️</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/AOCO-Year1Semester1/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center">➖</td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/AOCO-Year1Semester1">✔️</a></td>
     </tr>
     <tr>
         <td>FPRO</td>
