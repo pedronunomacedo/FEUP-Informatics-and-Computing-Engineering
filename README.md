@@ -101,7 +101,7 @@
     </tr>
     <tr>
         <td>AED</td>
-        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459471">Numerical Methods</a></td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459471">Algorithms and Data Structures</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-mnum-ex">✔️</a></td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
