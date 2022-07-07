@@ -121,8 +121,14 @@
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td>LCOM</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436435">Computer Laboratory</a></td>
+        <td>IADE</td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=489303">Introduction to data analysis in Excel</a></td>
+        <td colspan="2" style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-lcom">✔️</a></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td>IADE</td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=489303">Introduction to data analysis in Excel</a></td>
         <td colspan="2" style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-lcom">✔️</a></td>
         <td style="text-align:center"></td>
     </tr>
