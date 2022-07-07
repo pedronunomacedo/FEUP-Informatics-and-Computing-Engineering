@@ -23,9 +23,9 @@
     <tr>
         <td>AMAT</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436424">Mathematical Analysis I</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/AMAT-Year2Semester2/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center">➖</td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/AMAT-Year2Semester2">✔️</a></td>
     </tr>
     <tr>
         <td>AOCO</td>
