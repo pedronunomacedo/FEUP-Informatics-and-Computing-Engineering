@@ -51,9 +51,9 @@
     <tr>
         <td>PF</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=438941">Project FEUP</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-pf-proj">✔️</a></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/Project_FEUP-Year1Semester1/tree/main/Testes">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/Project_FEUP-Year1Semester1/tree/main/Trabalho">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/Project_FEUP-Year1Semester1">✔️</a></td>
     </tr>
     <tr>
         <th rowspan="5" class="rotate"><div>1st Year, 2nd Sem.</div></th>
