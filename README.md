@@ -10,7 +10,7 @@
     <tr>
         <th style="text-align:center">Exercises</th>
         <th style="text-align:center">Projects</th>
-        <th style="text-align:center">Forms</th>
+        <th style="text-align:center">Repository</th>
     </tr>
     <tr>
         <th rowspan="6" class="rotate"><div>1st Year, 1st Sem.</div></th>
