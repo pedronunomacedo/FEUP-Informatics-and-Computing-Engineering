@@ -95,9 +95,9 @@
         <th rowspan="6" class="rotate"><div>2nd Year, 1st Sem.</div></th>
         <td>AED</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484404">Algorithms and Data Structures</a></td>
-        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/ALGA-Year2Semester2/tree/main/Fichas">✔️</a></td>
-        <td style="text-align:center">➖</td>
-        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/ALGA-Year2Semester2">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/AED-Year2Semester1/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/AED-Year2Semester1/tree/main/Projects">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/AED-Year2Semester1">✔️</a></td>
     </tr>
     <tr>
         <td>DB</td>
