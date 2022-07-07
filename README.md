@@ -37,9 +37,9 @@
     <tr>
         <td>FPRO</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436425">Programming Fundamentals</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-fpro-ex">✔️</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/FPRO-Year1Semester1/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center">➖</td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/FPRO-Year1Semester1">✔️</a></td>
     </tr>
     <tr>
         <td>MDIS</td>
