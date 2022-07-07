@@ -115,7 +115,7 @@
     </tr>
     <tr>
         <td>BD</td>
-        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459477">Algorithms and Data Structures</a></td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459477">Databases</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-aeda-ex">✔️</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-aeda-proj">✔️</a></td>
         <td style="text-align:center"></td>
