@@ -14,7 +14,7 @@
     </tr>
     <tr>
         <th rowspan="6" class="rotate"><div>1st Year, 1st Sem.</div></th>
-        <td>ALGE</td>
+        <td>ALGA</td>
         <td><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484342">Linear Algebra and Analytic Geometry</a></td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
