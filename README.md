@@ -92,7 +92,7 @@
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <th rowspan="5" class="rotate"><div>2nd Year, 1st Sem.</div></th>
+        <th rowspan="6" class="rotate"><div>2nd Year, 1st Sem.</div></th>
         <td>TCOM</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436437">Computing Theory</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-tcom-ex">✔️</a></td>
