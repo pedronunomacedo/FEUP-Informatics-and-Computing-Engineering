@@ -5,7 +5,7 @@
         <td rowspan="2"></td>
         <th style="text-align:center" rowspan="2">Acronym</th>
         <th style="text-align:center" rowspan="2">Name</th>
-        <th style="text-align:center" colspan="3">Resources</th>
+        <th style="text-align:center" colspan="3">Repository</th>
     </tr>
     <tr>
         <th style="text-align:center">Exercises</th>
@@ -18,7 +18,7 @@
         <td><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484342">Linear Algebra and Analytic Geometry</a></td>
         <td style="text-align:center"><a href="https://github.com/pedronunomacedo/ALGA-Year2Semester2/tree/main/Fichas">✔️</a></td>
         <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/ALGA-Year2Semester2">✔️</a></td>
     </tr>
     <tr>
         <td>AMAT</td>
