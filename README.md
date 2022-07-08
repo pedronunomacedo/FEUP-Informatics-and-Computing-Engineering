@@ -174,9 +174,9 @@
         <th rowspan="6" class="rotate"><div>3rd Year, 1st Sem.</div></th>
         <td>IPC</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484432">Human Computer Interaction</a></td>
-        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/ALGA-Year2Semester2/tree/main/Fichas">✔️</a></td>
-        <td style="text-align:center">➖</td>
-        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/ALGA-Year2Semester2">✔️</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
     </tr>
     <tr>
         <td>LBAW</td>
