@@ -166,9 +166,9 @@
     <tr>
         <td>SO</td>
         <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484378">Operating Systems</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-lpoo-ex">✔️</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-lpoo-proj">✔️</a></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/SO-Year2Semester2/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/SO-Year2Semester2/tree/main/Projects">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/SO-Year2Semester2">✔️</a></td>
     </tr>
     <tr>
         <th rowspan="5" class="rotate"><div>3rd Year, 1st Sem.</div></th>
