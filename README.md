@@ -215,38 +215,38 @@
     </tr>
     <tr>
         <th rowspan="5" class="rotate"><div>3rd Year, 2nd Sem.</div></th>
-        <td>COMP</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459486">Compilers</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-comp-ex">✔️</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-comp-proj">✔️</a></td>
+        <td>CPD</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484381">Parallel and Distributed Computing</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td>IART</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459487">Artificial Intelligence</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-iart-ex">✔️</a></td>
-        <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-iart-proj1">#1</a>, <a href="https://github.com/dmfrodrigues/feup-iart-proj2">#2</a>)</td>
+        <td>C</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484379">Compilers</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td>LBAW</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459490">Database and Web Apps Lab</a></td>
+        <td>CG</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484380">Computer Graphics</a></td>
         <td style="text-align:center"></td>
-        <td style="text-align:center"> <a href="https://github.com/dmfrodrigues/feup-lbaw-proj">✔️</a></td>
         <td style="text-align:center"></td>
-    </tr>
-    <tr>
-        <td>PPIN</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459488">Personal and Interpersonal Proficiency</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-ppin-proj">✔️</a></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td>SDIS</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459489">Distributed Systems</a></td>
-        <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-sdis-tp">TP</a>, <a href="https://github.com/dmfrodrigues/feup-sdis-ex">Ex</a>)</td>
-        <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-sdis-proj1">#1</a>, <a href="https://github.com/dmfrodrigues/feup-sdis-proj2">#2</a>)</td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-sdis-form">✔️</a></td>
+        <td>PI</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484443">Capstone Project</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td>IA/td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484442">Artificial Intelligence</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
     </tr>
 </table>
