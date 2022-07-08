@@ -171,39 +171,46 @@
         <td style="text-align:center"><a href="https://github.com/pedronunomacedo/SO-Year2Semester2">✔️</a></td>
     </tr>
     <tr>
-        <th rowspan="5" class="rotate"><div>3rd Year, 1st Sem.</div></th>
-        <td>ESOF</td>
-        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459481">Software Engineering</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-esof-ex">✔️</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-esof-proj">✔️</a></td>
+        <th rowspan="6" class="rotate"><div>3rd Year, 1st Sem.</div></th>
+        <td>IPC</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484432">Human Computer Interaction</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/ALGA-Year2Semester2/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center">➖</td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/ALGA-Year2Semester2">✔️</a></td>
+    </tr>
+    <tr>
+        <td>LBAW</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484433">Database and Web Applications Laboratory</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td>LAIG</td>
-        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459484">Graphical Applications Laboratory</a></td>
+        <td>RC</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484435">Computer Networks</a></td>
         <td style="text-align:center"></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-laig-proj">✔️</a></td>
         <td style="text-align:center"></td>
-    </tr>
-    <tr>
-        <td>LTW</td>
-        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459485">Web Languages and Technologies</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-ltw-ex">✔️</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-ltw-proj">✔️</a></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td>PLOG</td>
-        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=459482">Logic Programming</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-plog-ex">✔️</a></td>
-        <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-plog-tp1">#1</a>, <a href="https://github.com/dmfrodrigues/feup-plog-tp2">#2</a>)</td>
+        <td>FSI</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484431">Computer Security Foundations</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td>RCOM</td>
-        <td><a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459483">Computer Networks</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-rcom-ex">✔️</a></td>
-        <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-rcom-l1">#1</a>, <a href="https://github.com/dmfrodrigues/feup-rcom-l2">#2</a>)</td>
+        <td>PFL</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484434">Functional and Logic Programming</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
+    </tr>
+    <tr>
+        <td>CT2</td>
+        <td><a href="https://sigarra.up.pt/feup/en/FEST_GERAL.CURSO_POSICAO_PLANO_VIEW?pv_fest_id=1318529#div_id_410623">Transferable Skills II</a></td>
+        <td style="text-align:center"></td>
+        <td style="text-align:center"></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
