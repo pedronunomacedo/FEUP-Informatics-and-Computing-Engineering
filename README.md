@@ -138,9 +138,9 @@
         <th rowspan="5" class="rotate"><div>2nd Year, 2nd Sem.</div></th>
         <td>DA</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484424">Algorithm Design</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-bdad-ex">✔️</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-bdad-proj">✔️</a></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/DA-Year2Semester2/tree/main/Fichas/DA_TP_Classes">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/DA-Year2Semester2/tree/main/Projects">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/DA-Year2Semester2">✔️</a></td>
     </tr>
     <tr>
         <td>ES</td>
