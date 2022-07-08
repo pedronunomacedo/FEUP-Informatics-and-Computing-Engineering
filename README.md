@@ -152,9 +152,9 @@
     <tr>
         <td>LC</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484426">Computer Laboratory</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cgra-tp">✔️</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cgra-proj">✔️</a></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/LC-Year2Semester2/tree/main/Pr%C3%A1ticas">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/LC-Year2Semester2/tree/main/Pr%C3%A1ticas">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/LC-Year2Semester2">✔️</a></td>
     </tr>
     <tr>
         <td>LTW</td>
