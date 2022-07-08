@@ -159,9 +159,9 @@
     <tr>
         <td>LTW</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484427">Web Languages and Technologies</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-sope-ex">✔️</a></td>
-        <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-sope-proj1">#1</a>, <a href="https://github.com/dmfrodrigues/feup-sope-proj2">#2</a>)</td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-sope-exam">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/LTW-Year2Semester2/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/LTW-Year2Semester2/tree/main/Projects">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/LTW-Year2Semester2">✔️</a></td>
     </tr>
     <tr>
         <td>SO</td>
