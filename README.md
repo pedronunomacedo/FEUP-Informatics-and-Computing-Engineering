@@ -145,9 +145,9 @@
     <tr>
         <td>ES</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484425">Software Engineering</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cal-ex">✔️</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cal-proj">✔️</a></td>
-        <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cal-exam">✔️</a></td>
+        <td style="text-align:center">➖</td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/ES-Year2Semester2/tree/main/Projects">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/ES-Year2Semester2">✔️</a></td>
     </tr>
     <tr>
         <td>LC</td>
