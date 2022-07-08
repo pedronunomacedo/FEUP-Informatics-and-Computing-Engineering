@@ -116,9 +116,9 @@
     <tr>
         <td>LDTS</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484407">Software Design and Testing Laboratory</a></td>
-        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/FPRO-Year1Semester1/tree/main/Fichas">✔️</a></td>
-        <td style="text-align:center">➖</td>
-        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/FPRO-Year1Semester1">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/LDTS-Year2Semester1/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/LDTS-Year2Semester1/tree/main/Project">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/LDTS-Year2Semester1">✔️</a></td>
     </tr>
     <tr>
         <td>TC</td>
