@@ -136,36 +136,36 @@
     </tr>
     <tr>
         <th rowspan="5" class="rotate"><div>2nd Year, 2nd Sem.</div></th>
-        <td>BDAD</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436439">Databases</a></td>
+        <td>DA</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484424">Algorithm Design</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-bdad-ex">✔️</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-bdad-proj">✔️</a></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td>CAL</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436441">Algorithm Design and Analysis</a></td>
+        <td>ES</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484425">Software Engineering</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cal-ex">✔️</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cal-proj">✔️</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cal-exam">✔️</a></td>
     </tr>
     <tr>
-        <td>CGRA</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436438">Computer Graphics</a></td>
+        <td>LC</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484426">Computer Laboratory</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cgra-tp">✔️</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-cgra-proj">✔️</a></td>
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td>SOPE</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436440">Operating Systems</a></td>
+        <td>LTW</td>
+        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484427">Web Languages and Technologies</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-sope-ex">✔️</a></td>
         <td style="text-align:center">✔️ (<a href="https://github.com/dmfrodrigues/feup-sope-proj1">#1</a>, <a href="https://github.com/dmfrodrigues/feup-sope-proj2">#2</a>)</td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-sope-exam">✔️</a></td>
     </tr>
     <tr>
-        <td>LPOO</td>
-        <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436442">Object Oriented Programming Laboratory</a></td>
+        <td>SO</td>
+        <td><a href="https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484378">Operating Systems</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-lpoo-ex">✔️</a></td>
         <td style="text-align:center"><a href="https://github.com/dmfrodrigues/feup-lpoo-proj">✔️</a></td>
         <td style="text-align:center"></td>
