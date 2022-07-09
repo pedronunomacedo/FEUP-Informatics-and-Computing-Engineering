@@ -2,10 +2,8 @@
 
 <p>If you want to clone all the content of the course (until the cuurent year that I'm at), you need to follow the below steps: </p>
 
-1. `git clone git@github.com:pedronunomacedo/Informatics-and-Computing-Engineering.git`
-2. `cd Informatics-and-Computing-Engineering`
-3. `./generateStudy.sh`
-4. Follow the steps and that's all!
+1. `./cloneStudy.sh`
+2. Follow the steps and that's all!
 
 <br>
 <table class="uni-resources">
