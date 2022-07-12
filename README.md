@@ -1,11 +1,19 @@
 <h1>FEUP (LEIC)</h1>
 
-<p>If you want to clone all the content of the course (until the cuurent year that I'm at), you need to follow the below steps: </p>
+<p>If you want to clone all the content of the course (until the current year that I'm at), you need to follow the below steps: </p>
 
 1. `git clone git@github.com:pedronunomacedo/Informatics-and-Computing-Engineering.git`
 2. `cd Informatics-and-Computing-Engineering`
 3. `./generateStudy.sh`
 4. Follow the steps and that's all!
+
+<br>
+
+<p>Or if you want to update the content of the course (until the current year that I'm at), you need to follow the below steps: </p>
+
+1. Make sure you are in the folder "Informatics-and-Computing-Engineering"!
+2. `./gitPull.sh`
+3. Follow the steps and that's all!
 
 <br>
 <table class="uni-resources">
