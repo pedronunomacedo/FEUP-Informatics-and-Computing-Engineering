@@ -1,12 +1,10 @@
 #!/bin/bash
 
+clear
+
 read -p "Where do you want to save the University folder (paste the respective full path)? " fullPath
 
 cd ~
-
-#while [ ! -d "$fullPath" ] ; do
-#    read -p "Directory doesn't exit. Input another directory: " fullPath
-#done
 
 cd
 cd "$fullPath"
