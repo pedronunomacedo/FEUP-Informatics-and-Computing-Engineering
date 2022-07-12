@@ -11,7 +11,7 @@
 
 <p>Or if you want to update the content of the course (until the current year that I'm at), you need to follow the below steps: </p>
 
-1. Make sure you are in the folder "Informatics-and-Computing-Engineering"!
+1. Make sure you are in the folder "Informatics-and-Computing-Engineering"
 2. `./gitPull.sh`
 3. Follow the steps and that's all!
 
