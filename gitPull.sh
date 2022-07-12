@@ -139,4 +139,5 @@ cd Study
                 git pull
                 cd ..
             cd ..
-                
+echo ""
+echo "Updating content was successful. Good study!"
