@@ -10,7 +10,8 @@ cd
 cd "$fullPath"
 
 
-if [ -d "Study" ] 
+if [ -d "Study" ]
+then
     cd Study
         cd Year1
             cd Semester1
