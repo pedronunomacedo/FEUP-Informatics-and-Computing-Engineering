@@ -223,8 +223,8 @@
         <td style="text-align:center"></td>
     </tr>
     <tr>
-        <td>CT2</td>
-        <td><a href="https://sigarra.up.pt/feup/en/FEST_GERAL.CURSO_POSICAO_PLANO_VIEW?pv_fest_id=1318529#div_id_410623">Transferable Skills II</a></td>
+        <td>EAV</td>
+        <td><a href="https://sigarra.up.pt/fpceup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=503685">Lifelong Employability</a></td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
