@@ -190,44 +190,44 @@
         <th rowspan="6" class="rotate"><div>3rd Year, 1st Sem.</div></th>
         <td>IPC</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484432">Human Computer Interaction</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/IPC-Year3Semester1/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/IPC-Year3Semester1/tree/main/Project">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/IPC-Year3Semester1">✔️</a></td>
     </tr>
     <tr>
         <td>LBAW</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484433">Database and Web Applications Laboratory</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center">➖</td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/LBAW-Year3Semester1/tree/main/Project">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/LBAW-Year3Semester1">✔️</a></td>
     </tr>
     <tr>
         <td>RC</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484435">Computer Networks</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/RC-Year3Semester1/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/RC-Year3Semester1/tree/main/Projects">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/RC-Year3Semester1">✔️</a></td>
     </tr>
     <tr>
         <td>FSI</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484431">Computer Security Foundations</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/FSI-Year3Semester1/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/FSI-Year3Semester1/tree/main/Project">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/FSI-Year3Semester1">✔️</a></td>
     </tr>
     <tr>
         <td>PFL</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484434">Functional and Logic Programming</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/PFL-Year3Semester1/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/PFL-Year3Semester1/tree/main/Project">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/PFL-Year3Semester1">✔️</a></td>
     </tr>
     <tr>
         <td>EAV</td>
         <td><a href="https://sigarra.up.pt/fpceup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=503685">Lifelong Employability</a></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/EAV-Year3Semester1/tree/main/Fichas">✔️</a></td>
+        <td style="text-align:center">➖</td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/EAV-Year3Semester1">✔️</a></td>
     </tr>
     <tr>
         <th rowspan="5" class="rotate"><div>3rd Year, 2nd Sem.</div></th>
