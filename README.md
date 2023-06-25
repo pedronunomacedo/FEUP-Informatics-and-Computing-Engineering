@@ -90,7 +90,7 @@
         <td>MEST</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436432">Statistical Methods</a></td>
         <td style="text-align:center"><a href="https://github.com/pedronunomacedo/MEST-Year1Semester2/tree/main/Fichas">✔️</a></td>
-        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/MEST-Year1Semester2/tree/main/Projetos">✔️</a></td>
+        <td style="text-align:center"><a href="https://github.com/pedronunomacedo/MEST-Year1Semester2/tree/main/Projects">✔️</a></td>
         <td style="text-align:center"><a href="https://github.com/pedronunomacedo/MEST-Year1Semester2">✔️</a></td>
     </tr>
     <tr>
